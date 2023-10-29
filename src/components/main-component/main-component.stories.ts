@@ -1,7 +1,7 @@
 import {html} from "lit";
 import "./main-component.ts";
 
-// write default storybook story
+// Main Component storybook story
 export default {
     title: "MainComponent",
     component: "main-component",

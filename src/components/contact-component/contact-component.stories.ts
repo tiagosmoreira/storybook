@@ -1,7 +1,7 @@
 import { html } from "lit";
 import "./contact-component.ts";
 
-
+// Contact Component storybook story
 export default {
     title: "ContactComponent",
     component: "contact-component",

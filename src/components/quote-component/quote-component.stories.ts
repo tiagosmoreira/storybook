@@ -1,7 +1,7 @@
 import {html} from "lit";
 import "./quote-component.ts";
 
-// write default storybook story
+// Quote Component storybook story
 export default {
     title: "QuoteComponent",
     component: "quote-component",
